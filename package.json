@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-async-handler": "^1.2.0",
+    "nodemon": "^3.1.10",
+    "react": "^19.1.0",
+    "react-router-dom": "^7.6.3",
+    "vite": "^7.0.2"
+  },
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "My Personal Website",
+  "main": "server.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevbot606/personal-website.git"
+  },
+  "author": "Kevin Coalwell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevbot606/personal-website/issues"
+  },
+  "homepage": "https://github.com/kevbot606/personal-website#readme"
+}
